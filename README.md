@@ -25,7 +25,7 @@ This end-to-end machine learning project dives deep into customer behavior to pr
 | **Matplotlib & Seaborn** | Visualization          |
 | **Scikit-Learn** | Model training & evaluation    |
 | **Power BI**   | Visual Dashboard for business use  
-| **Git/GitHub** | Version control + Portfolio ready!
+
 
 ---
 
@@ -66,16 +66,6 @@ The cleaned dataset was used to design a **dynamic Power BI dashboard** with:
 - Churn by Gender, Tenure, Contract Type
 - Monthly Charges trends
 - Slicers for Internet Service, Senior Citizen, Payment Method, etc.
-- 📎 [*Add dashboard screenshot here once done!*]
-
----
-
-## 🏁 What's Next?
-
-- ✅ Add ROC Curve image  
-- ✅ Upload Power BI `.pbix` file  
-- ✅ Expand with advanced models (Random Forest, XGBoost)  
-- ✅ Add Streamlit app? 🤔
 
 ---
 
