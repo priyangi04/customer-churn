@@ -67,7 +67,7 @@ The cleaned dataset was used to design a **dynamic Power BI dashboard** with:
 
 ## 👑 About Me
 
-**Built with ❤️ (and real tears) by Priyangi*, a Data Analyst with a fire for data, dashboards, and real-world problem solving.  
+*Built with ❤️ (and real tears) by Priyangi*, a Data Analyst with a fire for data, dashboards, and real-world problem solving.  
 📍 Tools mastered: SQL, Python, Excel, Tableau, Power BI  
 
 ---
