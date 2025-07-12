@@ -72,7 +72,7 @@ The cleaned dataset was used to design a **dynamic Power BI dashboard** with:
 
 ---
 
-## ⭐ If you like this project...
+## ⭐ If you like this project
 
 - Leave a ⭐ on this repo  
 - Connect with me on LinkedIn: linkedin.com/in/priyangi-vashisht-92038a233/
