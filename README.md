@@ -26,10 +26,6 @@ This end-to-end machine learning project dives deep into customer behavior to pr
 | **Scikit-Learn** | Model training & evaluation    |
 | **Power BI**   | Visual Dashboard for business use  
 
-
----
-
-
 ---
 
 ## 📊 Business Problem
